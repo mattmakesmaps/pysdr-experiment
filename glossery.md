@@ -13,3 +13,9 @@
 ## Chapter 03
 
 - Nyquist Rate: The minimum rate at which we can sample. The minimum rate at which a (finite bandwidth) signal needs to be sampled to retain all of its information. [REF](https://pysdr.org/content/sampling.html#nyquist-sampling)
+
+- Quadrature: Two waves that are 90 degrees out of phase [https://pysdr.org/content/sampling.html#quadrature-sampling](https://pysdr.org/content/sampling.html#quadrature-sampling)
+
+- Baseband: Signal centered around 0Hz.
+
+- Bandpass: Signal has been shifted up for the purposes of wireless transmission.
